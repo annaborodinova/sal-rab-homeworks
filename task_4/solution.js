@@ -1,4 +1,4 @@
-// Задание 4.1. Вывод карточек товаров
+
 
 function parseProducts(json) {
     
